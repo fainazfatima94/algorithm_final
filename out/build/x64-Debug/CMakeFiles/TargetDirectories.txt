@@ -1,0 +1,8 @@
+C:/Users/ACER/source/repos/dte-3611_template_source_base/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/ACER/source/repos/dte-3611_template_source_base/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ACER/source/repos/dte-3611_template_source_base/out/build/x64-Debug/lib3611/CMakeFiles/edit_cache.dir
+C:/Users/ACER/source/repos/dte-3611_template_source_base/out/build/x64-Debug/lib3611/CMakeFiles/rebuild_cache.dir
+C:/Users/ACER/source/repos/dte-3611_template_source_base/out/build/x64-Debug/benchmark_and_testing/CMakeFiles/edit_cache.dir
+C:/Users/ACER/source/repos/dte-3611_template_source_base/out/build/x64-Debug/benchmark_and_testing/CMakeFiles/rebuild_cache.dir
+C:/Users/ACER/source/repos/dte-3611_template_source_base/out/build/x64-Debug/benchmark_and_testing/predefined_utils/CMakeFiles/edit_cache.dir
+C:/Users/ACER/source/repos/dte-3611_template_source_base/out/build/x64-Debug/benchmark_and_testing/predefined_utils/CMakeFiles/rebuild_cache.dir
